@@ -10,4 +10,4 @@ class Shape{
     color='blue';
 }
 // export class using module.exports
-module.exports={Circle};
+module.exports=Shape;
